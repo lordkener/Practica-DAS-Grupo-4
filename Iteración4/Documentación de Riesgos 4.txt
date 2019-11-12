@@ -1,0 +1,4 @@
+
+# Documentación de problemas con las decisiones de diseño.
+
+Estamos de acuerdo en que para la decisión de comunicación y conexión internacional el patrón a utilizar es pizarra.
